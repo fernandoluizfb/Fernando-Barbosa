@@ -5,6 +5,7 @@ body{
     text-align: center;
     font-family: 'Quicksand', sans-serif;   
     box-sizing: border-box;
+    
 }
 
 
@@ -64,7 +65,7 @@ h3 {
 
 img {
    width: 100%;
-   max-width: 1000px;
+   max-width: 840px;
    height: 100%;
    max-height: 480px;
    border-radius: 10px;
